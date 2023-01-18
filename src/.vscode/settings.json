@@ -1,0 +1,31 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/rkskwhdgh123/robot_workspace/build/test_para",
+    "/home/rkskwhdgh123/robot_workspace/install/test_para/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_workspace/build/tb3_move",
+    "/home/rkskwhdgh123/robot_workspace/install/tb3_move/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_workspace/install/ros2_aruco_interfaces/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_workspace/build/ros2_aruco",
+    "/home/rkskwhdgh123/robot_workspace/install/ros2_aruco/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_workspace/build/nav_move",
+    "/home/rkskwhdgh123/robot_workspace/install/nav_move/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_workspace/build/m_pubsub",
+    "/home/rkskwhdgh123/robot_workspace/install/m_pubsub/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/build/test_para",
+    "/home/rkskwhdgh123/robot_ws/install/test_para/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/build/test_num",
+    "/home/rkskwhdgh123/robot_ws/install/test_num/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/install/test_interfaces/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/install/ros2_aruco_interfaces/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/build/ros2_aruco",
+    "/home/rkskwhdgh123/robot_ws/install/ros2_aruco/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/build/move_turtle_pkg",
+    "/home/rkskwhdgh123/robot_ws/install/move_turtle_pkg/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/build/m_pubsub",
+    "/home/rkskwhdgh123/robot_ws/install/m_pubsub/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/build/imgtran",
+    "/home/rkskwhdgh123/robot_ws/install/imgtran/lib/python3.8/site-packages",
+    "/home/rkskwhdgh123/robot_ws/install/class_test_interfaces/lib/python3.8/site-packages",
+    "/opt/ros/foxy/lib/python3.8/site-packages"
+  ]
+}
